@@ -19,3 +19,9 @@
 pnpm
 pnpm dev
 ```
+
+2. check localhost:3000, see there is no orange background on "Hello World".
+![issue1](https://github.com/Sharlottes/ve-missing-style-ireproduction/assets/60801210/ff823fd2-018e-4884-8dd2-5605fc8db2d6)
+
+3. check network chrome devtool, see there even no CSS file download.
+![issue2](https://github.com/Sharlottes/ve-missing-style-ireproduction/assets/60801210/46358319-fb64-4378-af4f-c4173d7e82cc)
